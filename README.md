@@ -5,8 +5,8 @@ Este é um jogo desenvolvido em **SwiftUI** como parte do desafio do curso "100 
 Diferente do jogo clássico, este aplicativo treina o seu cérebro: a cada rodada, o app escolhe um movimento e instrui o jogador a **GANHAR** ou **PERDER** daquela jogada.
 
 ## 📱 Screenshots
-
-*(Substitua esta linha por um print/gif do seu app rodando)*
+https://github.com/user-attachments/assets/022bcb88-9a45-4395-b307-53c76235e38b 
+https://github.com/user-attachments/assets/22428fe1-7540-406a-8404-9cbea5005e87
 
 ## 🎮 Como Jogar
 
